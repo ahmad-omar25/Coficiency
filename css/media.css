@@ -37,6 +37,12 @@
         margin-left: 30px;
         width: 70%;
     }
+    
+      .navbar-brand img
+    {
+        height: 70%
+    }
+}
 }
 
 
